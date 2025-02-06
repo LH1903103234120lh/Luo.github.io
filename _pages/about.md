@@ -11,7 +11,7 @@ I am a second-year graduate student in the Artificial Intelligence track of the 
 
 I am very fortunate to be advised by [Prof. Xueqian Wang](https://www.sigs.tsinghua.edu.cn/wxq/list.htm) at the AI&ROBOT Laboratory, Tsinghua University.
 
-You can find my CV here: [Luo's Curriculum Vitae](../assets/resume_master.pdf).
+You can find my CV here: [Luo's Curriculum Vitae](../assets/resume_master.pdf). Feel free to contact with me!
 
 
 [Email](mailto:luo-h23@mails.tsinghua.edu.cn) / [Github](https://github.com/LH1903103234120lh) / [Wechat](../images/wechat.jpg)
