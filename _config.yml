@@ -13,7 +13,7 @@ title                    : "Hong Luo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hong Luo"
 description              : &description "Second-year undergraduate student form Tsinghua Unitversity"
-url                      : https://lh1903103234120lh.github.io/Luo.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lh1903103234120lh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
 
